@@ -1,0 +1,13 @@
+{
+    "name": "Eclipse Alloy",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:4",
+    "ingredient": {
+      "item": "justdirethings:eclipsealloy_ingot"
+    },
+    "color": "9c3223",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust",
+      "essence": "mysticalagriculture:item/essence_dust"
+    }
+  }
