@@ -1,9 +1,9 @@
 Minecraft Just Dire Things Mystical Agriculture Integrations
 
 Mods needed
-Just Diret Things
+Just Dire Things
 Mystical Agriculture
-Mystical Customisation
+Mystical Customization
 KubeJs
 
 Once these are installed simply create and overwrite the files above.
