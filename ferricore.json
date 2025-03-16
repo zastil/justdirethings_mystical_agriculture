@@ -1,0 +1,13 @@
+{
+    "name": "Ferricore",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:1",
+    "ingredient": {
+      "item": "justdirethings:ferricore_ingot"
+    },
+    "color": "ADD8E6",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust",
+      "essence": "mysticalagriculture:item/essence_dust"
+    }
+  }

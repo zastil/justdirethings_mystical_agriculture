@@ -1,0 +1,14 @@
+{
+  "name": "Prosperity",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mysticalagriculture:prosperity_block"
+  },
+  "color": "ffffff",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust"
+  }
+}
+  

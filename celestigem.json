@@ -1,0 +1,13 @@
+{
+    "name": "Celestigem",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:3",
+    "ingredient": {
+      "item": "justdirethings:celestigem"
+    },
+    "color": "44c0b5",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust",
+      "essence": "mysticalagriculture:item/essence_dust"
+    }
+  }

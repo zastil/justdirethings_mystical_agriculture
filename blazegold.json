@@ -1,0 +1,13 @@
+{
+    "name": "Blazegold",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:2",
+    "ingredient": {
+      "item": "justdirethings:blazegold_ingot"
+    },
+    "color": "9c3223",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust",
+      "essence": "mysticalagriculture:item/essence_dust"
+    }
+  }
